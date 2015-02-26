@@ -283,3 +283,10 @@ What's up with the name?
 It's clever! Services are often reloaded using `SIGHUP`. The point of this tool
 is to maximize uptime by enabling zero downtime restarts via `SIGHUP`. It's
 your high availabilibuddy!
+
+In this Fork:
+-------------
+
+-- Added make support for RaspberryPi B, B+, A+ and Pi 2 (all flavors - compiled and tested and it works!)
+
+Stuart - 2014-02-26
